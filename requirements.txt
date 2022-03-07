@@ -1,0 +1,19 @@
+Create a simple application to view/add/modify the details of the books in a library,
+
+
+The home page will list all the books in the library (5-10 books)
+The page should have a searching function 
+Sorting 
+Filtering (Based on authors' name)
+Delete a book
+Separate page to edit the details of a book
+Separate page to add a new book.  
+
+As per my understanding, HCLC V9 uses components of the spring. So, technology stack will be,
+
+Java 8
+Spring
+Spring Data JPA
+Spring MVC
+JSP
+H2 Database
